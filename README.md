@@ -5,7 +5,7 @@
 
 :radio_button: GRAVITY - About :  
 <p align="center">
-<img src="/img/DFIR-GRAVITY_01-about.png" alt="GRAVITY 02" width="1400"/>
+<img src="/img/DFIR-GRAVITY_01-about.png" alt="GRAVITY 01" width="1400"/>
 </p>
 
 

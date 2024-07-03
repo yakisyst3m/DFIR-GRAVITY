@@ -1,7 +1,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/yakisyst3m/DFIR-GRAVITY) 
 ![GitHub release-date](https://img.shields.io/github/release-date/yakisyst3m/DFIR-GRAVITY)
-# DFIR-GRAVITY (Beta software)
+# DFIR-GRAVITY (Beta software)  
 
+Information : To download the application please look at the releases
+----
 
 :radio_button: GRAVITY - About :  
 <p align="center">
